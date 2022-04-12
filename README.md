@@ -1,2 +1,2 @@
 # Face_recognition
-face recognition using a pretrained FacetNet model
+Face recognition using a pretrained FaceNet model
